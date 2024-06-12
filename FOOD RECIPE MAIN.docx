@@ -13,14 +13,6 @@ PRIYADHARSHINI T	22ALR073
 
 
 
-
-
-
-
-
-
-
-
 INTRODUCTION:
 
 The Food Recipe Full Stack Project aims to create an interesting and intuitive web application that facilitates the discovery, sharing, and organization of a large number of recipes. This project uses both front-end and back-end technologies to provide culinary connoisseurs and home chefs with a comprehensive solution. Allow patrons to browse a wide selection of recipes sorted by different cooking styles, diets, and ingredients. Allow people to contribute their own recipes, complete with images, ingredient lists, tips, and instructions. Give consumers the ability to organize their meals and save their favorite recipes with tools.
@@ -39,8 +31,6 @@ Key features:
 
 
 
-
-
 REQUIREMENTS:
 
 ● Front-End Programming:
@@ -55,25 +45,6 @@ Frameworks: For quick UI creation, use CSS frameworks like Tailwind CSS or Boots
       3. APIs (Application Programming Interfaces): APIs are created by backend developers to facilitate communication between a web application's frontend and backend parts. APIs specify the rules and protocols that allow various software components to communicate and exchange data. GraphQL and restful APIs are two popular API protocols.
 
 UI DESIGN: 
-
- 
-
- 
-
- 
-
-
- 
- 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -204,9 +175,6 @@ flex-wrap: wrap;
 	border-radius: 10px; 
 	margin:0px 0px 20px 0px; 
 }
-
-
-
 
 
 
